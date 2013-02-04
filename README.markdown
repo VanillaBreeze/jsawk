@@ -26,7 +26,7 @@ install it with the following command:
 Or you can [build it from source](http://www.mozilla.org/js/spidermonkey/).
 Ready? Go.
 
-If mac os x, you need [mac port](http://macport.org)
+If mac os x, you need [mac port](http://www.macports.org/)
 
       sudo port update
       sudo port install spidermonkey
