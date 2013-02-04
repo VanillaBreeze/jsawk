@@ -1,6 +1,17 @@
 Quick Start
 ===========
 
+## jsawk for ubuntu 12.04 install
+
+Ubuntu 12.04 try this at git repos dir 
+
+    sudo sh install-ubuntu-12-04.sh 
+
+if not install 'js', edit install-ubuntu-12-04.sh to follow [document](https://developer.mozilla.org/en-US/docs/SpiderMonkey/Introduction_to_the_JavaScript_shell)
+
+Documentation
+-------------
+
 [Updated underscore.js to v1.3.1.](http://documentcloud.github.com/underscore/)
 
 Jsawk is like awk, but for JSON. You work with an array of JSON objects
@@ -30,6 +41,7 @@ If mac os x, you need [mac port](http://www.macports.org/)
 
       sudo port update
       sudo port install spidermonkey
+
 
 Install
 -------
