@@ -1,4 +1,15 @@
-Quick Start
+Install(new document)
+===========
+```sh
+sudo apt-get update
+sudo apt-get install git-core
+git clone https://github.com/VanillaBreeze/jsawk.git
+cd jsawk
+chmod 755 install-ubuntu-12-04.sh
+./install-ubuntu-12-04.sh
+```
+
+Quick Start(origin document)
 ===========
 
 ## jsawk for ubuntu 12.04 install
